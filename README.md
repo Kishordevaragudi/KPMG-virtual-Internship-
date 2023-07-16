@@ -1,10 +1,9 @@
 # KPMG-Virtual-Internship
-During the month of May 2023, I did a a short self-paced Virtual Internship through Forage called 'Data Analytics Consulting Virtual Internship' under KPMG India. It contained three modules or tasks. These modules took me through an entire process of analysing data and interpreting it for improvement in marketing strategies of an organisation. Given below, is a little more detail about each module/task.
 
 Module 1
 ## Data Analytics: Internship Tasks
 ### About the Internship
-During the month of July 2020, I did a a short self-paced Virtual Internship through Forage called 'Data Analytics Consulting Virtual Internship' under KPMG Australia. It contained three modules or tasks. These modules took me through an entire process of analysing data and interpreting it for improvement in marketing strategies of an organisation. Given below, is a little more detail about each module/task.
+During the month of May 2023, I did a a short self-paced Virtual Internship through Forage called 'Data Analytics Consulting Virtual Internship' under KPMG India. It contained three modules or tasks. These modules took me through an entire process of analysing data and interpreting it for improvement in marketing strategies of an organisation. Given below, is a little more detail about each module/task.
 
 ## Module 1
 Background Information
