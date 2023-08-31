@@ -33,3 +33,6 @@ Which customer segment has the highest customer value?
 What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 Specifically, the presentation should specify who should be targeted out of the new 1000 customer list as well as the broader market segment to reach out to. I used Tablau for the dashboard creation for this module.
+
+### Link
+[KPMG Virtual internship certificate.pdf](https://github.com/Kishordevaragudi/KPMG-virtual-Internship-/files/12484622/KPMG.Virtual.internship.certificate.pdf)
