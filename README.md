@@ -35,4 +35,4 @@ What additional external datasets may be useful to obtain greater insights into 
 Specifically, the presentation should specify who should be targeted out of the new 1000 customer list as well as the broader market segment to reach out to. I used Tablau for the dashboard creation for this module.
 
 ### Link
-[KPMG Virtual internship certificate.pdf](https://github.com/Kishordevaragudi/KPMG-virtual-Internship-/files/12484622/KPMG.Virtual.internship.certificate.pdf)
+![Screenshot 2023-08-31 145248](https://github.com/Kishordevaragudi/KPMG-virtual-Internship-/assets/105155723/4c34f0c8-0f1a-4651-aeb0-3875c8193144)
